@@ -2,4 +2,6 @@
 Thanks for everything :)
 
 ## This is my first attempt at python
-Hopefully much more to come
+Hopefully much more to come with better code.
+
+### Maybe
