@@ -1,6 +1,6 @@
 #This is a basic addition and subtraction calculator for now
 
-#Creates basic functions for addition and subtraction
+#Creates basic functions
 
 #Addition
 def add(x, y):
