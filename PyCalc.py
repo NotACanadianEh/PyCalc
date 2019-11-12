@@ -1,6 +1,7 @@
 #This is a basic addition and subtraction calculator for now
+#Added multiplication and division oopsie need to add exit or restart
 
-#Creates basic functions
+#Creates basic functions for addition and subtraction
 
 #Addition
 def add(x, y):
@@ -36,4 +37,3 @@ elif choice == '4':
     print (number1,"*",number2,"=", multiplication(number1,number2))
 else:
     print ("You dun fucked up A-Aron")
-
